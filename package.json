@@ -2,7 +2,7 @@
   "name": "kardashev-scale",
   "version": "1.0.0",
   "description": "",
-  "homepage": "https://veronicaDFL.github.io/kardashev-scale",
+  "homepage": "https://VeronicaDFL.github.io/kardashev-scale",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
